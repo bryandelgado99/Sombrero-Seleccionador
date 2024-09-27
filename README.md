@@ -1,7 +1,7 @@
-<center>
+<p align="center">
     <img src="/assets/pngwing.com.png" width="125px"/>
-    <h1>El Sombrero Seleccionador</h1>
-</center>
+    <h1 align="center">El Sombrero Seleccionador</h1>
+</p>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
